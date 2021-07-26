@@ -1,8 +1,6 @@
 # study-blockchain
 block chain and NFT data collection, code study
 
-# 1차 목표
-
 ### block chain
 블록체인에 관한 데이터 수집 및 코드 연구 
 - 블록체인 작동 원리에 관하여
